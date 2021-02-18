@@ -1,1 +1,3 @@
 This is my Update 1.
+I am going to see diff command 
+which is difference between working area and staging area.
