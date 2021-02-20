@@ -1,0 +1,11 @@
+This is my Update 1.
+I am going to see diff command 
+which is difference between working area and staging area.
+again i m going to check git diff --staged command because at that time,
+there is no any staged file.
+modified
+1
+2
+3
+4
+5
